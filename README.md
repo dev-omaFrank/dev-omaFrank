@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dev-omaFrank
-- 👀 I’m a full-stack, python developer.
+- 👀 I’m a full-stack web, python developer.
 - 💞️ I’m looking to collaborate on the roles mentioned above.
 - 📫 How to reach me: sayhellotodevops@gmail.com
 
