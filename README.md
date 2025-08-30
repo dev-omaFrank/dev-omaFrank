@@ -2,7 +2,7 @@
 - 👀 I’m a full-stack web developer, a python developer and a Blockchain developer.
 - 💞️ I’m looking to collaborate on the roles mentioned above.
 - 📫 How to reach me:
- franklyn-nmesoma.vercel.app 
+ https://franklyn-nmesoma.vercel.app 
  sayhellotodevops@gmail.com
 
 <!---
